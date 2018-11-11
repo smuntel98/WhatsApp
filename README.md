@@ -8,14 +8,14 @@ Bisa Single Dan Multi
 ```
 apt update && apt upgrade -y
 apt install git python2 ruby
-apt install figlet nano unzip
+apt install figlet nano
 gem install lolcat
 pip2 install requests
 git clone https://github.com/Senitopeng/WhatsApp.git
 cd WhatsApp
-unzip WhatsApp.zip
-nano no.txt
 ```
+
+
 
 # Private
 ```
